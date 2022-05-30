@@ -70,6 +70,14 @@
       "price": "300",
       "imageSrc": "https://picsum.photos/seed/picsum2/421/261",
       "id": 9
+    },
+    {
+      "title": "shirts",
+      "category": "",
+      "gender": "unisex",
+      "imageSrc": "https://picsum.photos/seed/picsum2/421/261",
+      "price": "500",
+      "id": 10
     }
   ]
 }
